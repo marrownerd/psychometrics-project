@@ -1,0 +1,16 @@
+# --- Данные и Модели (не отправляем на GitHub) ---
+data/
+models/
+*.pkl
+*.csv
+*.xlsx
+
+# --- Мусор Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
